@@ -15,7 +15,7 @@ db.sqlite
 
 # next.js
 /.next/
-/out/
+
 next-env.d.ts
 
 # production
@@ -67,5 +67,3 @@ Desktop.ini
 .eslintcache
 .parcel-cache
 
-
-.agents
